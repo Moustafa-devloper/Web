@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "blog": "Blog",
+    "services": "Services",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "title": "I design and build digital products that create trust and measurable growth.",
+    "subtitle": "Senior Full-Stack Developer & UI/UX Designer helping founders and businesses turn ideas into polished products.",
+    "primaryCta": "View Projects",
+    "secondaryCta": "Contact Me"
+  },
+  "about": {
+    "headline": "About Me",
+    "body": "I design and build modern digital experiences with a focus on speed, clarity, and business outcomes."
+  }
+}
